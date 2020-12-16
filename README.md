@@ -1,1 +1,2 @@
-# class24
+# collisionAlgorithm
+Algorithm to detect collision between two objects
